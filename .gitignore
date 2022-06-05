@@ -1,0 +1,7 @@
+# IDEs 
+.vscode
+.idea
+
+# My personal testing files
+outfile.js
+test.ts
