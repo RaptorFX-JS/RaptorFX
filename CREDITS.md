@@ -1,0 +1,4 @@
+# Credits
+- ArathainFarqou
+- FelipeBdC
+- LePichu
